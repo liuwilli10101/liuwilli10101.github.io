@@ -9,7 +9,7 @@ redirect_from:
 
 👋 Hi! I'm an undergraduate researcher at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington (Class of 2029).
 
-I work as a research assistant in [UW Robotics and State Estimation Lab](https://rse-lab.cs.washington.edu/) under Prof. [Dieter Fox](https://homes.cs.washington.edu/~fox/), mentored by [Dr. Yi Ru Wang](https://helen9975.github.io/). My research interests lie in **Robotic Evaluation Benchmarks**, **force-aware imitation learning**, and **Deep Reinforcemenr Learning** in general.
+I work as a research assistant in [UW Robotics and State Estimation Lab](https://rse-lab.cs.washington.edu/) under Prof. [Dieter Fox](https://homes.cs.washington.edu/~fox/), mentored by [Dr. Yi Ru Wang](https://helen9975.github.io/). My research interests lie in **Robotic Evaluation Benchmarks**, **force-aware imitation learning**, and **Deep Reinforcement Learning** in general.
 
 
 ## Research Interests
